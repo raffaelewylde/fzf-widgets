@@ -1,4 +1,4 @@
-# fzf-widgets - ZLE widgets of fzf
+# My Fork of fzf-widgets - ZLE widgets of fzf
 
 [Overview](#overview) |
 [Installation](#installation) |
